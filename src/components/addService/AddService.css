@@ -1,0 +1,19 @@
+.add-service form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: 0 auto;
+}
+.add-service input,
+textarea {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 650px) {
+  .add-service form {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin: 0 auto;
+  }
+}

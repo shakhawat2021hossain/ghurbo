@@ -1,0 +1,29 @@
+.footer ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+.footer li {
+  padding: 0 10px;
+}
+.footer .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.social i {
+  font-size: 26px;
+  margin-right: 14px;
+}
+.social i:hover {
+  opacity: 0.8;
+}
+.copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 15px;
+  color: #aaa;
+  margin-bottom: 10px;
+}
